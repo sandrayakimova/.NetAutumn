@@ -1,0 +1,9 @@
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.AssemblyInfoInputs.cache
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.AssemblyInfo.cs
+/Users/sandrayakimova/Projects/day1/day1/bin/Debug/netcoreapp2.2/day1.deps.json
+/Users/sandrayakimova/Projects/day1/day1/bin/Debug/netcoreapp2.2/day1.dll
+/Users/sandrayakimova/Projects/day1/day1/bin/Debug/netcoreapp2.2/day1.pdb
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.dll
+/Users/sandrayakimova/Projects/day1/day1/obj/Debug/netcoreapp2.2/day1.pdb
