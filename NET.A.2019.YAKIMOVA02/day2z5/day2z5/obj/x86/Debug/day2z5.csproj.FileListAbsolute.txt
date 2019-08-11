@@ -1,0 +1,6 @@
+/Users/sandrayakimova/Projects/day2z5/day2z5/bin/Debug/day2z5.exe
+/Users/sandrayakimova/Projects/day2z5/day2z5/bin/Debug/day2z5.pdb
+/Users/sandrayakimova/Projects/day2z5/day2z5/obj/x86/Debug/day2z5.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/day2z5/day2z5/obj/x86/Debug/day2z5.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/day2z5/day2z5/obj/x86/Debug/day2z5.exe
+/Users/sandrayakimova/Projects/day2z5/day2z5/obj/x86/Debug/day2z5.pdb
