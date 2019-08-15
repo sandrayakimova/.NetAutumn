@@ -1,0 +1,6 @@
+/Users/sandrayakimova/Projects/nodlib/nodlib/bin/Debug/nodlib.dll
+/Users/sandrayakimova/Projects/nodlib/nodlib/bin/Debug/nodlib.pdb
+/Users/sandrayakimova/Projects/nodlib/nodlib/obj/Debug/nodlib.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/nodlib/nodlib/obj/Debug/nodlib.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/nodlib/nodlib/obj/Debug/nodlib.dll
+/Users/sandrayakimova/Projects/nodlib/nodlib/obj/Debug/nodlib.pdb

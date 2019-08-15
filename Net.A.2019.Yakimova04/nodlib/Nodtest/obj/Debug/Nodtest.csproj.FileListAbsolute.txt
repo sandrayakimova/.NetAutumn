@@ -1,0 +1,12 @@
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/Nodtest.dll
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/Nodtest.pdb
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/nodlib.dll
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/nunit.framework.dll
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/nodlib.pdb
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/nunit.framework.pdb
+/Users/sandrayakimova/Projects/nodlib/Nodtest/bin/Debug/nunit.framework.xml
+/Users/sandrayakimova/Projects/nodlib/Nodtest/obj/Debug/Nodtest.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/nodlib/Nodtest/obj/Debug/Nodtest.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/nodlib/Nodtest/obj/Debug/Nodtest.csproj.CopyComplete
+/Users/sandrayakimova/Projects/nodlib/Nodtest/obj/Debug/Nodtest.dll
+/Users/sandrayakimova/Projects/nodlib/Nodtest/obj/Debug/Nodtest.pdb
