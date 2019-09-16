@@ -64,7 +64,7 @@ namespace conproj
                             Console.WriteLine("entry destfile");
                             string dest = Console.ReadLine();
                             CsvFileService cs = new CsvFileService();
-                            cs.Export(dest,Storage.store);
+                            cs.Export(dest,Storage.Store);
                         }
                         break;
                     case 7:
@@ -73,7 +73,7 @@ namespace conproj
                             Console.WriteLine("entry destfile");
                             string dest = Console.ReadLine();
                             CsvFileService cs = new CsvFileService();
-                            cs.Import(dest);
+                            Storage.Store=cs.Import(dest);
                         }
                         break;
                     case 8:
@@ -82,7 +82,7 @@ namespace conproj
                             Console.WriteLine("entry destfile");
                             string dest = Console.ReadLine();
                             XmlFileService xml = new XmlFileService();
-                            xml.Export(dest, Storage.store);
+                            xml.Export(dest, Storage.Store);
                         }
                         break;
                     case 9:
@@ -109,7 +109,7 @@ namespace conproj
                             Console.WriteLine("entry destfile");
                             string dest = Console.ReadLine();
                             XmlFileService xml = new XmlFileService();
-                            xml.Import(dest);
+                            Storage.Store = xml.Import(dest);
                         }
                         break;
                     case 13:
