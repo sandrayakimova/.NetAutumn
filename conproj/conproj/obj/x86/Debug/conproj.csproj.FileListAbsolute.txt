@@ -1,0 +1,6 @@
+/Users/sandrayakimova/Projects/conproj/conproj/bin/Debug/conproj.exe
+/Users/sandrayakimova/Projects/conproj/conproj/bin/Debug/conproj.pdb
+/Users/sandrayakimova/Projects/conproj/conproj/obj/x86/Debug/conproj.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/conproj/conproj/obj/x86/Debug/conproj.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/conproj/conproj/obj/x86/Debug/conproj.exe
+/Users/sandrayakimova/Projects/conproj/conproj/obj/x86/Debug/conproj.pdb
